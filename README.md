@@ -1,0 +1,2 @@
+# sapHanaAcad
+HANA Academy copy
